@@ -1,0 +1,105 @@
+{
+  "taxa_acerto": {
+    "acertos": 8,
+    "total": 9,
+    "taxa_pct": 88.9,
+    "erros": [
+      7
+    ]
+  },
+  "erro_por_paredao": [
+    {
+      "paredao": 1,
+      "erro_medio_pp": 10.5
+    },
+    {
+      "paredao": 3,
+      "erro_medio_pp": 8.21
+    },
+    {
+      "paredao": 7,
+      "erro_medio_pp": 4.88
+    },
+    {
+      "paredao": 8,
+      "erro_medio_pp": 5.76
+    },
+    {
+      "paredao": 9,
+      "erro_medio_pp": 6.17
+    }
+  ],
+  "ranking_frentes": [
+    {
+      "frente": "instagram",
+      "erro_medio_pp": 6.11
+    },
+    {
+      "frente": "twitter",
+      "erro_medio_pp": 6.15
+    },
+    {
+      "frente": "youtube",
+      "erro_medio_pp": 15.37
+    },
+    {
+      "frente": "sites",
+      "erro_medio_pp": 20.9
+    }
+  ],
+  "vies_eliminado": [
+    {
+      "paredao": 1,
+      "eliminado": "Aline Campos",
+      "oficial": 61.64,
+      "votalhada": 45.89,
+      "vies": -15.75
+    },
+    {
+      "paredao": 3,
+      "eliminado": "Brígido",
+      "oficial": 77.88,
+      "votalhada": 65.57,
+      "vies": -12.31
+    },
+    {
+      "paredao": 7,
+      "eliminado": "Breno Corã",
+      "oficial": 54.66,
+      "votalhada": 47.33,
+      "vies": -7.33
+    },
+    {
+      "paredao": 8,
+      "eliminado": "Babu Santana",
+      "oficial": 68.62,
+      "votalhada": 60.01,
+      "vies": -8.61
+    },
+    {
+      "paredao": 9,
+      "eliminado": "Breno Corã",
+      "oficial": 58.96,
+      "votalhada": 54.96,
+      "vies": -4.0
+    }
+  ],
+  "acerto_por_frente": {
+    "sites": {
+      "acertos": 1,
+      "total": 5
+    },
+    "youtube": {
+      "acertos": 3,
+      "total": 5
+    },
+    "twitter": {
+      "acertos": 5,
+      "total": 5
+    },
+    "instagram": {
+      "acertos": 4,
+      "total": 5
+    }
+  }
+}
