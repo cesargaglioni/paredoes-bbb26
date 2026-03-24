@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "titulo": "Votalhada vs. Resultados Oficiais — BBB 26",
+    "fonte_enquetes": "votalhada.blogspot.com",
+    "fonte_resultados": "gshow.globo.com / Globo",
+    "temporada": "BBB 26 (Janeiro–Abril 2026)",
+    "data_extracao": "2026-03-24",
+    "notas": "Campos nulos indicam dados não disponíveis em formato texto (publicados apenas como imagem no blog). O 10º paredão ainda não teve resultado oficial na data de extração."
+  },
+  "resumo": {
+    "total_paredoes_decididos": 9,
+    "acertos_eliminado": 8,
+    "taxa_acerto_pct": 88.9,
+    "erro_medio_geral_pp": 7.1,
+    "frente_mais_precisa": "Instagram",
+    "frente_menos_precisa": "Sites",
+    "vies_dominante": "Subestimação do percentual do eliminado",
+    "precisao_por_frente": {
+      "instagram": { "erro_medio_pp": 6.04, "ranking": 1 },
+      "twitter_x": { "erro_medio_pp": 7.40, "ranking": 2 },
+      "youtube": { "erro_medio_pp": 15.39, "ranking": 3 },
+      "sites": { "erro_medio_pp": 18.89, "ranking": 4 }
+    }
+  },
+  "paredoes": [
+    {
+      "numero": 1,
+      "data": "2026-01-20",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": 10.50,
+      "participantes": [
+        {
+          "nome": "Aline Campos",
+          "grupo": "Camarote",
+          "eliminado": true,
+          "pct_oficial": 61.64,
+          "votalhada": {
+            "sites": 40.88,
+            "youtube": 41.83,
+            "twitter": 64.87,
+            "instagram": 45.55,
+            "media_geral": 45.89
+          },
+          "erro_media_vs_oficial": -15.75
+        },
+        {
+          "nome": "Ana Paula Renault",
+          "grupo": "Veterana",
+          "eliminado": false,
+          "pct_oficial": 5.86,
+          "votalhada": {
+            "sites": 13.77,
+            "youtube": 12.74,
+            "twitter": 3.80,
+            "instagram": 6.55,
+            "media_geral": 9.59
+          },
+          "erro_media_vs_oficial": 3.73
+        },
+        {
+          "nome": "Milena Moreira",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 32.50,
+          "votalhada": {
+            "sites": 45.34,
+            "youtube": 45.43,
+            "twitter": 31.33,
+            "instagram": 47.91,
+            "media_geral": 44.52
+          },
+          "erro_media_vs_oficial": 12.02
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "data": "2026-01-27",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": null,
+      "participantes": [
+        {
+          "nome": "Matheus",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 79.48,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Leandro Boneco",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 15.55,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Brígido",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 4.97,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "data": "2026-02-03",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": 8.21,
+      "participantes": [
+        {
+          "nome": "Brígido",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 77.88,
+          "votalhada": {
+            "sites": 51.44,
+            "youtube": 52.04,
+            "twitter": 70.95,
+            "instagram": 71.31,
+            "media_geral": 65.57
+          },
+          "erro_media_vs_oficial": -12.31
+        },
+        {
+          "nome": "Leandro Boneco",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 12.04,
+          "votalhada": {
+            "sites": 32.62,
+            "youtube": 34.00,
+            "twitter": 25.12,
+            "instagram": 15.46,
+            "media_geral": 22.18
+          },
+          "erro_media_vs_oficial": 10.14
+        },
+        {
+          "nome": "Ana Paula Renault",
+          "grupo": "Veterana",
+          "eliminado": false,
+          "pct_oficial": 10.08,
+          "votalhada": {
+            "sites": 15.94,
+            "youtube": 13.96,
+            "twitter": 3.93,
+            "instagram": 13.23,
+            "media_geral": 12.25
+          },
+          "erro_media_vs_oficial": 2.17
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "data": "2026-02-10",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": null,
+      "participantes": [
+        {
+          "nome": "Sarah Andrade",
+          "grupo": "Veterana",
+          "eliminado": true,
+          "pct_oficial": 69.13,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Babu Santana",
+          "grupo": "Veterano",
+          "eliminado": false,
+          "pct_oficial": 28.49,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Sol Vega",
+          "grupo": "Veterana",
+          "eliminado": false,
+          "pct_oficial": 2.38,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "data": "2026-02-17",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": null,
+      "participantes": [
+        {
+          "nome": "Marcelo",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 68.56,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Samira",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 16.25,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Solange Couto",
+          "grupo": "Camarote",
+          "eliminado": false,
+          "pct_oficial": 15.19,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "data": "2026-02-25",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": null,
+      "participantes": [
+        {
+          "nome": "Maxiane Rodrigues",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 63.21,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Milena Moreira",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 36.11,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Chaiany Andrade",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 0.68,
+          "votalhada": null,
+          "erro_media_vs_oficial": null
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "data": "2026-03-03",
+      "tipo": "Paredão Falso",
+      "acertou_eliminado": false,
+      "erro_medio_por_participante_pp": 4.88,
+      "participantes": [
+        {
+          "nome": "Breno Corã",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 54.66,
+          "votalhada": {
+            "sites": 44.58,
+            "youtube": 43.41,
+            "twitter": 48.92,
+            "instagram": 53.64,
+            "media_geral": 47.33
+          },
+          "erro_media_vs_oficial": -7.33
+        },
+        {
+          "nome": "Alberto Cowboy",
+          "grupo": "Veterano",
+          "eliminado": false,
+          "pct_oficial": 43.12,
+          "votalhada": {
+            "sites": 52.42,
+            "youtube": 53.27,
+            "twitter": 42.68,
+            "instagram": 41.21,
+            "media_geral": 48.46
+          },
+          "erro_media_vs_oficial": 5.34
+        },
+        {
+          "nome": "Jordana",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 2.22,
+          "votalhada": {
+            "sites": 3.00,
+            "youtube": 3.25,
+            "twitter": 8.37,
+            "instagram": 5.14,
+            "media_geral": 4.19
+          },
+          "erro_media_vs_oficial": 1.97
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "data": "2026-03-10",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": 5.76,
+      "participantes": [
+        {
+          "nome": "Babu Santana",
+          "grupo": "Veterano",
+          "eliminado": true,
+          "pct_oficial": 68.62,
+          "votalhada": {
+            "sites": 47.25,
+            "youtube": 58.38,
+            "twitter": 78.62,
+            "instagram": 71.80,
+            "media_geral": 60.01
+          },
+          "erro_media_vs_oficial": -8.61
+        },
+        {
+          "nome": "Milena Moreira",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 30.91,
+          "votalhada": {
+            "sites": 50.79,
+            "youtube": 37.29,
+            "twitter": 18.25,
+            "instagram": 26.40,
+            "media_geral": 36.57
+          },
+          "erro_media_vs_oficial": 5.66
+        },
+        {
+          "nome": "Chaiany Andrade",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 0.47,
+          "votalhada": {
+            "sites": 1.95,
+            "youtube": 4.75,
+            "twitter": 3.13,
+            "instagram": 1.80,
+            "media_geral": 3.49
+          },
+          "erro_media_vs_oficial": 3.02
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "data": "2026-03-17",
+      "tipo": "Normal",
+      "acertou_eliminado": true,
+      "erro_medio_por_participante_pp": 6.17,
+      "participantes": [
+        {
+          "nome": "Breno Corã",
+          "grupo": "Pipoca",
+          "eliminado": true,
+          "pct_oficial": 58.96,
+          "votalhada": {
+            "sites": 33.13,
+            "youtube": 49.25,
+            "twitter": 63.81,
+            "instagram": 55.27,
+            "media_geral": 54.96
+          },
+          "erro_media_vs_oficial": -4.00
+        },
+        {
+          "nome": "Ana Paula Renault",
+          "grupo": "Veterana",
+          "eliminado": false,
+          "pct_oficial": 25.17,
+          "votalhada": {
+            "sites": 44.60,
+            "youtube": 28.50,
+            "twitter": 12.91,
+            "instagram": 14.27,
+            "media_geral": 19.86
+          },
+          "erro_media_vs_oficial": -5.31
+        },
+        {
+          "nome": "Leandro Boneco",
+          "grupo": "Pipoca",
+          "eliminado": false,
+          "pct_oficial": 15.87,
+          "votalhada": {
+            "sites": 22.27,
+            "youtube": 21.95,
+            "twitter": 23.28,
+            "instagram": 30.47,
+            "media_geral": 25.08
+          },
+          "erro_media_vs_oficial": 9.21
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "data": "2026-03-24",
+      "tipo": "Normal (pendente)",
+      "acertou_eliminado": null,
+      "erro_medio_por_participante_pp": null,
+      "participantes": [
+        {
+          "nome": "Juliano Floss",
+          "grupo": "Camarote",
+          "eliminado": null,
+          "pct_oficial": null,
+          "votalhada": {
+            "sites": 53.08,
+            "youtube": 50.55,
+            "twitter": 38.63,
+            "instagram": 41.27,
+            "media_geral": 44.82
+          },
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Jonas Sulzbach",
+          "grupo": "Veterano",
+          "eliminado": null,
+          "pct_oficial": null,
+          "votalhada": {
+            "sites": 39.49,
+            "youtube": 37.28,
+            "twitter": 55.60,
+            "instagram": 49.57,
+            "media_geral": 45.15
+          },
+          "erro_media_vs_oficial": null
+        },
+        {
+          "nome": "Gabriela Saporito",
+          "grupo": "Pipoca",
+          "eliminado": null,
+          "pct_oficial": null,
+          "votalhada": {
+            "sites": 7.43,
+            "youtube": 12.72,
+            "twitter": 5.77,
+            "instagram": 11.34,
+            "media_geral": 10.17
+          },
+          "erro_media_vs_oficial": null
+        }
+      ]
+    }
+  ],
+  "saidas_nao_paredao": [
+    { "nome": "Henri Castelli", "motivo": "Problema de saúde", "dia": 3 },
+    { "nome": "Pedro Espíndola", "motivo": "Expulsão/desistência por assédio", "dia": 7 },
+    { "nome": "Paulo Augusto", "motivo": "Expulso por agressão (empurrou Jonas)", "dia": 19 },
+    { "nome": "Sol Vega", "motivo": "Expulsa por agressão (agrediu Ana Paula)", "dia": 31 },
+    { "nome": "Edilson Capetinha", "motivo": "Expulso por agressão (contra Leandro)", "dia": 34 },
+    { "nome": "Marcel Lucena", "motivo": "Desistência antes de entrar", "dia": 0 }
+  ]
+}
